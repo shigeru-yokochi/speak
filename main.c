@@ -4,6 +4,7 @@
 #include <wiringPi.h>
 #define MILLI_SEC 1000000
 
+
 //https://projects.drogon.net/raspberry-pi/wiringpi/pins/
 #define GPIO_17		0	//Pin - wiringPi pin 0 is BCM_GPIO 17
 #define GPIO_18		1	//Pin - wiringPi pin 1 is BCM_GPIO 18
